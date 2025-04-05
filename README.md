@@ -17,12 +17,8 @@ coldemail-with-genai/
 ├── vectorstore2/          # Persistent ChromaDB vector store
 ├── testing/               # Jupyter notebooks for testing and experimentation
 └── README.md              # Project documentation
-🚀 Getting Started
-1. Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/your-username/coldemail-with-genai.git
+
+
 cd coldemail-with-genai
 2. Install Dependencies
 Make sure Pipenv is installed:
@@ -78,4 +74,4 @@ Streamlit
 
 JupyterLab
 
-📌 Full dependency list in the Pipfile
+
