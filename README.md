@@ -1,0 +1,1 @@
+# genai-cold-mail-genrator
